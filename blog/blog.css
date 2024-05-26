@@ -51,7 +51,7 @@
         grid-template-columns: 1fr 2fr;
         justify-content: center;
         justify-items: center;
-        text-align: center;
+        text-align: left;
         align-content: center;
     }
     .metaBook {
